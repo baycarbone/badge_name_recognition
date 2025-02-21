@@ -11,9 +11,7 @@ Or individually (might be missing some here):
 ```
 pip install ultralytics
 pip install supervision
-pip install git+https://github.com/openai/CLIP.git
-pip install open_clip_torch
-pip install sentence_transformers
+pip install aiohttp
 ```
 - Create the directory to store badge images and serve those images (a `badge` directory will automatically be created in this directory)
 ```
